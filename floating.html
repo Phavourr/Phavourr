@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>floating</title>
+    <style>
+        .container div {
+            background-color: blueviolet;
+            width: 70px;
+            padding: 15px;
+            margin: 20px;
+            font-size: 35px;
+        }
+
+        .container {
+            background-color: rgb(22, 21, 21);
+            display: inline-flex;
+            flex-direction: row;
+            flex-wrap: wrap;
+            flex-flow: row wrap;
+            justify-content: center;
+            align-items: center;
+            height: 500px;
+        }
+
+        .container div:nth-child(1) {
+            background-color: rgb(226, 43, 43);
+            height: 450px;
+        }
+
+        .container div:nth-child(2) {
+            background-color: rgb(189, 81, 81);
+            height: 400px;
+        }
+
+        .container div:nth-child(3) {
+            background-color: greenyellow;
+            height: 330px;
+        }
+
+        .container div:nth-child(4) {
+            background-color: rgb(47, 231, 255);
+            height: 250px;
+        }
+
+        .container div:nth-child(5) {
+            background-color: #af6a29;
+            height: 200px;
+        }
+
+        .container div:nth-child(6) {
+            background-color: rgb(51, 161, 41);
+            height: 180px;
+        }
+
+        .container div:nth-child(7) {
+            background-color: rgb(231, 147, 21);
+            height: 160px;
+        }
+        .container div:nth-child(8) {
+            background-color: rgb(146, 52, 175);
+            height: 140px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div div style="align-self:flex-end">BTC 1</div>
+        <div div style="align-self:flex-end">ETH 2</div>
+        <div div style="align-self:flex-end">LTC 3</div>
+        <div div style="align-self:flex-end">BNB 4</div>
+        <div div style="align-self:flex-end">XRP 5</div>
+        <div div style="align-self:flex-end">USDT 6</div>
+        <div div style="align-self:flex-end">PAX 7</div>
+        <div div style="align-self:flex-end">TRC 8</div>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,15 @@
+    body {
+        background-color: rgb(147, 224, 224);
+       
+    }
+    ol{
+        border: 1px solid green;
+        height: 100px;
+        width: 950px;
+        margin: 0 auto;
+    }
+  ol>li{border: 1px solid #543;
+    height:100%;
+    width: 300px;
+    display: inline-block;
+   }

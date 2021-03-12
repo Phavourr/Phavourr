@@ -1,0 +1,11 @@
+.calculator-wrapper{
+    width: 400px;
+    margin: auto;
+    background-color: black;
+    color: blanchedalmond;
+    box-shadow: 0px 0px 0px blue;
+    border-radius: 5px;
+}
+.display-result{
+    
+}

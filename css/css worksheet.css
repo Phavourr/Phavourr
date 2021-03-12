@@ -1,0 +1,61 @@
+div{
+        color: rgb(0, 255, 98);
+        text-align: center;
+        outline-style: solid;
+        outline-width: thick;
+        outline-offset: 3px;
+        outline: solid rgb(226, 230, 29) thick;
+    }
+    .work
+    {
+        text-align: center;
+        height: 400px;
+        width: 400px;
+        background-color: royalblue;
+        margin: auto;
+        padding: 10px;
+    }
+    .download
+    {
+        text-align: center;
+        text-decoration: underline overline;
+        text-transform: capitalize;
+        text-indent: 50p%;
+        letter-spacing: 3px;
+        line-height: 70px;
+        word-spacing: 5px;
+        white-space:nowrap;
+        text-shadow:5px 5px 5px black;
+    }
+    img{
+        height: 200px;
+        width: 300px;
+    }
+    p{
+        font-family: cursive;
+        color: hotpink;
+        font-size: 10px;
+        font-style: oblique;
+        font-weight: bold;
+        font-variant: small-caps;
+        font-stretch: large;
+    }
+    table{
+        width: 85%;
+        border-collapse:collapse ;
+    }
+    table,th,td{
+        border: solid 1px black;
+    }
+    td,th{
+        text-align: center;
+    }
+    td:hover{background-color: rgb(32, 214, 62);
+    }
+    tr:nth-child(even){
+        background-color: rgb(177, 28, 58);
+    }
+    th { 
+        background-color: cyan;
+        color:blue;
+    }
