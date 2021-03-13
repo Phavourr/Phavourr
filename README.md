@@ -1,3 +1,4 @@
+![Lighthouse](https://user-images.githubusercontent.com/79513302/111025940-cde5b700-83e7-11eb-92dc-ba944a187921.jpg)
 ### Hi there 👋
 **Phavourr/Phavourr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
