@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on frontend and Backend Development
 - 🤔 I’m looking for help with Recent Techs.
 - 💬 Ask me about Frontend Development
-- 📫 How to reach me: linkedin @ and Twitter@Phavour64485602
+- 📫 How to reach me: linkedin@Egejuru Favour and Twitter@Phavour64485602
 - 😄 Pronouns: He/Me
 - ⚡ Fun fact: cherophiobia is the word for the irratinional fear of being happy
 
