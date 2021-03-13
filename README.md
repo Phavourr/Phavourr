@@ -1,9 +1,5 @@
 ![Lighthouse](https://user-images.githubusercontent.com/79513302/111025940-cde5b700-83e7-11eb-92dc-ba944a187921.jpg)
 ### Hi Dear 👋
-**Phavourr/Phavourr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at Pmt.Ng
 - 🌱 I’m currently learning FrontEnd
 - 👯 I’m looking to collaborate on frontend and Backend Development
